@@ -1,0 +1,10 @@
+{
+  "name": "digital-clock-and-stopwatch",
+  "version": "1.0.0",
+  "description": "Digital clock with a stopwatch",
+  "main": "index.js",
+  "author": "Astitva Aggarwal",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
